@@ -24,7 +24,7 @@
     "d3": "^4.2.5",
     "d3fc-scripts": "^1.6.1",
     "webshot": "^0.18.0",
-    "semantic-release": "^4.3.5"
+    "semantic-release": "^6.3.2"
   },
   "dependencies": {
     "d3-scale": "^1.0.3",
